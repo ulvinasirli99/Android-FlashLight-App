@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fənər</string>
+    <string name="permission_requried">İcazə tələb olunur</string>
+    <string name="ok_btn">Şərtləri qəbul edirəm</string>
+    <string name="permission_camera">Fənər kameraya daxil olmalıdır</string>
+</resources>

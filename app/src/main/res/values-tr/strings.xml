@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El Feneri</string>
+    <string name="permission_requried">İzin Gerekli</string>
+    <string name="ok_btn">Koşulları kabul ediyorum</string>
+    <string name="permission_camera">El Feneri  kameraya Erişmesi Gerekiyor</string>
+</resources>
